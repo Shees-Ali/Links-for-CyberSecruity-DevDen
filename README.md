@@ -10,6 +10,8 @@
 
 > https://cybersecurityventures.com/cybersecurity-associations/#home/?view_1_page=1
 
+> https://www.bmc.com/blogs/osi-model-7-layers/
+
 ### Interesting articles or research related to Cyber Secruity
 
 > https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
