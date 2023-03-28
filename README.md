@@ -18,6 +18,8 @@
 
 > https://www.techopedia.com/topic/4/cybersecurity
 
+> https://github.com/snoopysecurity/dvws-node
+
 ### Interesting articles or research related to Cyber Secruity
 
 > https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
