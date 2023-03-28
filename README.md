@@ -1,4 +1,4 @@
-# Links-for-CyberSecruity-DevDen
+# Links for CyberSecruity DevDen
 
 ### Links for different sites related to Cyber Secruity 
 
