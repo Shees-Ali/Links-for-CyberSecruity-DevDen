@@ -12,6 +12,11 @@
 
 > https://www.bmc.com/blogs/osi-model-7-layers/
 
+> https://www.mindmeister.com/591683277/incident-response-and-handling-steps?fullscreen=1
+
+> https://www.mindmeister.com/1238203018/computer-incidient-response-plan?fullscreen=1
+
+
 ### Interesting articles or research related to Cyber Secruity
 
 > https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
