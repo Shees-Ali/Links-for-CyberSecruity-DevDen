@@ -16,6 +16,7 @@
 
 > https://www.mindmeister.com/1238203018/computer-incidient-response-plan?fullscreen=1
 
+> https://www.techopedia.com/topic/4/cybersecurity
 
 ### Interesting articles or research related to Cyber Secruity
 
